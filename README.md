@@ -1,0 +1,1 @@
+This is a starting repository for The Odin Project. As time goes on, I plan on using it to store notes and other random thoughts that I have about the project. 
